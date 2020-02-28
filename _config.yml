@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Deep Learning for Video, Master in Computer Vision Barcelona 2019"
+title:       "Deep Learning for Video, Master in Computer Vision Barcelona 2020"
 keywords:    "computer vision, deep learning"
-description: "Deep Learning for Video, Master in Computer Vision Barcelona 2019"
+description: "Deep Learning for Video, Master in Computer Vision Barcelona 2020"
 source_link: "https://github.com/mcv-m6-video"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
